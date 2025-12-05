@@ -286,4 +286,5 @@ public class WorldClockWidget extends JFrame {
             clock.setVisible(true);
         });
     }
+
 }
